@@ -16,3 +16,4 @@ A doua modificare
 ##deplo
 ##more
 >>>>>>> 846dd8ce0335d162f77f23c94bbf692e26483633
+Git training
